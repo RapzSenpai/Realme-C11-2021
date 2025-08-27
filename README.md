@@ -23,9 +23,9 @@ With 2gb ram and 32 gb rom
 ```
 **Solution for buttons not working properly**  
 ---  
-After you execute the script, it will says `usb fail` then congrats! your phone is now **SoftBricked**  
+After you execute the script, it will output `usb fail` then congrats! your phone is now **SoftBricked!**  
 `Here's what you are going to do`   
 Don't worry your phone is still detected thru `fastboot.`   
 
-Now, try holding different combinations.   
-Based on my experience, I just hold power button then plugging the usb and executing the script, voila! it worked.
+Now, try holding different button combinations.   
+Based on my experience, I just hold power button then plugging in the usb and executing the script, voila! it worked.
