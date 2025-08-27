@@ -13,10 +13,8 @@ First thing you need is patience, common sense, strong fighting spirit, I'm tell
 You may experience the following:   
 Softbricked (Phone is still detected thru fastboot)
 Side buttons not working properly.
-Solution if buttons not working
 ---
-By default you will be holding vol down and powerbutton then execute the script. Aftet that, the script will say something like `"failed usb"`
-But I guarantee you 100% success afterwards. 
+I guarantee you 100% success afterwards. 
 Just follow the steps inside that link; Goodluck!
 ---
 My phone is Realme c11 2021 - RMX3231
