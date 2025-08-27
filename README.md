@@ -5,7 +5,7 @@ I have tried to root the impossible "not really" but if you think of it, it is i
 Big thanks to this guy who made the impossible, possible!  
 
 ```bash
-//Link will be provided soon//
+[[//Link will be provided soon//](https://gist.github.com/Grandmasters69/a042fbdef1da0a24f3f0a9d5ce9cb73f)](https://gist.github.com/Grandmasters69/a042fbdef1da0a24f3f0a9d5ce9cb73f)
 ```
 ---
 After countless attempts, it worked!   
