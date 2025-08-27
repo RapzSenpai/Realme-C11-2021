@@ -16,7 +16,7 @@ Softbricked (Phone is still detected thru fastboot)
 Side buttons not working properly.
 ```
 I guarantee you 100% success afterwards.   
-Just follow the steps inside that link; Goodluck!
+Just follow the steps inside that link. Goodluck!
 ```
 My phone is Realme c11 2021 - RMX3231  
 With 2gb ram and 32 gb rom
@@ -25,6 +25,7 @@ With 2gb ram and 32 gb rom
 ---  
 After you execute the script, it will says `usb fail` then congrats! your phone is now **SoftBricked**  
 `Here's what you are going to do`   
-Don't worry your phone is still detected thru fastboot.  
+Don't worry your phone is still detected thru `fastboot.`   
+
 Now, try holding different combinations.   
 Based on my experience, I just hold power button then plugging the usb and executing the script, voila! it worked.
